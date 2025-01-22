@@ -23,5 +23,5 @@ The website is hosted on the domain interiordesignsvr.com, secured with an SSL c
 Add a blog section for interior design tips and trends.
 Implement an interactive design consultation form.
 Integrate AI-based design suggestions for users.
-How to Access
+     How to Access
 Visit the live website: interiordesignsvr.com
